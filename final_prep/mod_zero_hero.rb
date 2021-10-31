@@ -148,3 +148,4 @@ google_master.say_name
 #Syntax is starting to sink in. I don't think I had to look up basic formatting questions here.
 # What skills do you need to continue to practice before starting Mod 1?
 #I dont have a good grasp of which topics I don't know until I am confronted by a new topic/issue.
+#On second thought my vocabulary is poor. I do need to practice that.
